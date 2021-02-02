@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+
+.section {
+  padding-bottom: 25px; 
+}
+
+.gray {
+  background-color: #f9f9f9;
+}
+
+.title {
+  font-size: 35px;
+  margin: 30px 0;
+}
+
+.sub-title {
+  margin: 5px;
+}
+
+.img-first {
+  height: 200px;
+}
+
+.img-third {
+  width: 10%;
+  background-color: #324D5B;
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.why {
+  margin: 30px 0;
+}
