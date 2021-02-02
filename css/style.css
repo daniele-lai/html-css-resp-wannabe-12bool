@@ -3,7 +3,7 @@ body {
 }
 
 .section {
-  padding-bottom: 25px; 
+  padding-bottom: 25px;
 }
 
 .gray {
@@ -28,6 +28,10 @@ body {
   background-color: #324D5B;
   border-radius: 50%;
   padding: 20px;
+}
+
+.steps {
+  margin-bottom: 15px;
 }
 
 .why {
